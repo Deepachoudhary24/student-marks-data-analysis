@@ -54,14 +54,14 @@ print()
 print("English Topper:")
 print(data.loc[data["English"].idxmax()])
 
-# print("Bar Graph of Average Marks:")
-# plt.bar(data["Name"], data["Average"])
+print("Bar Graph of Average Marks:")
+plt.bar(data["Name"], data["Average"])
 
-# plt.title("Student Average Marks")
+plt.title("Student Average Marks")
 
-# plt.xlabel("Students")
+plt.xlabel("Students")
 
-# plt.ylabel("Average Marks")
+plt.ylabel("Average Marks")
 
-# plt.show()
+plt.show()
 
