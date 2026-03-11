@@ -16,3 +16,7 @@ Tools Used:
 - Python
 - Pandas
 - Matplotlib
+
+- ## Visualization
+
+![Graph](graph.png)
